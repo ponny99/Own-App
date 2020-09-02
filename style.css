@@ -53,12 +53,12 @@ button{
 
 }
 p {
+    font-style: bold;
   position: absolute;
-  filter: alpha(opacity=60);
-  opacity: 0.6;
+  opacity: 1;
   font-size: 20px;
   margin: 20vh 120vh 0vh 25vh; 
-  background-color: #ff2e63;
+  background-color: #eab0d9;
 
 }
 .form1{
